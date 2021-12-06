@@ -1,4 +1,4 @@
-Olá! Eu sou a Samanta Costa 😉
+## Olá! Eu sou a Samanta Costa 😉
 
 - 👩‍🎓 Formada em Redes de Computadores, com mais de 7 anos de experiência em suporte de TI .
 - 👩‍💻 Atualmente entrando no mundo da programação com o Python .
