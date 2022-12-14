@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Samanta Costa 😉
 
 - 👩‍🎓 Formada em Redes de Computadores, com mais de 7 anos de experiência em suporte de TI .
-- 👩‍💻 Atualmente entrando no mundo da programação com o Python .
+- 👩‍💻 Devops
 
   <a href="https://github.com/Samantacosta7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samantacosta7&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
